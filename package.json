@@ -1,0 +1,13 @@
+{
+  "name": "practice-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "watch": "tsc --watch",
+    "start": "nodemon ./dist/index.js"
+  },
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
